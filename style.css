@@ -2,15 +2,15 @@
 
 body {
 
-    background-image: url(imgess/backg.png);
+    background-image: url("imgess/backg.png");
 }
 body.dark-mode {
 
-    background-image: url(imgess/backg.png);
+    background-image: url("imgess/backg.png");
 }
 body.light-mode {
 
-    background-image: url(imgess/laightmode.png);
+    background-image: url("imgess/laightmode.png");
 }
 body.dark-mode p{
 
